@@ -1,0 +1,52 @@
+Times Insider explains who we are and what we do and delivers behind-the-scenes insights into how our journalism comes together.
+
+I walked into the Pennsylvania Convention Center in Philadelphia last June chasing down one story. I left with an idea for another.
+
+It was the weekend of the American Transplant Congress, an annual gathering of doctors and scientists, where the offerings included panels on ''novel antifungals in transplantation'' and ''antibody-mediated rejection.'' I was looking into a tip I'd received about organ transplant programs. But while there, I decided to check out a session on a different topic: kidney allocation, or the process of deciding who gets a transplant and who doesn't.
+
+I knew the organ transplant system in the United States maintained waiting lists to help ensure that organs were distributed to patients fairly, and that the sickest patients received priority for transplants. And I had heard that sometimes there were exceptions. But I was surprised when panelists discussed, rather matter-of-factly, the way those once-rare exceptions were becoming more common. The system, they said, was increasingly disregarding the rules and sending kidneys to patients who were nowhere near the top of the lists.
+
+So I shifted gears. Though we never lost interest in the original tip, my editor, Kirsten Danis, and I agreed that I should focus on this topic first.
+
+This week, my colleagues and I published an investigation into the growth in instances where patients in line for lifesaving transplants are being skipped over. Officials are routinely passing over patients when allocating kidneys, livers, hearts and lungs.
+
+We found that last year, officials bypassed patients on organ waiting lists in nearly 20 percent of transplants from deceased donors. Those organs often went to patients who were not as sick, or had not been waiting as long.
+
+Over months of reporting, we spoke with more than 275 people involved in the transplant system. At first, some were reluctant to talk. The panelists from the conference -- two transplant surgeons and a researcher with the United Network for Organ Sharing, the nonprofit federal contractor that oversees the U.S. transplant system -- wouldn't speak with me. Nor would many of the other people I had seen at the convention center in June.
+
+We decided to get hold of the data and conduct our own analysis. The Times paid $1,000 to UNOS for a database containing details on nearly a quarter-century's worth of donated organs, lists of possible recipients and offers made to patients (no names, however; the data was anonymized).
+
+It was enormous, and included 377 million rows of data. Thankfully, we were working with Mark Hansen, a data scientist at Columbia who leads the David and Helen Gurley Brown Institute for Media Innovation.
+
+For weeks, Mark painstakingly pored through the information. He consulted with medical researchers on how to navigate the database, wrote code to help comb through the rows and built checks in to make sure our analysis was accurate.
+
+While he was working through the data, I spoke with doctors around the country, asking them what they had seen in their dealings with organ procurement organizations, the nonprofits in each state that have government contracts to manage organ donation and distribution. These organizations are supposed to follow a strict allocation process, which can be time-consuming.
+
+By the fall, we knew which organizations were regularly ignoring waiting lists, and how they were doing it. By then we also had learned that the practice was bigger than kidneys.
+
+But we still didn't know why.
+
+Two of the nonprofits agreed to let me embed with them. I shadowed workers as they allocated organs, and spoke to dozens of employees at other procurement organizations. Leaders of the organizations said they ignored the lists only as a last resort, in order to place organs that were deteriorating and at risk of going to waste, and that so doing was allowed under federal regulations.
+
+But we found that the organizations sometimes ignored the lists as a way to reduce staffing costs, or to steer high-quality organs to selected hospitals. The organizations, we realized, were often prioritizing ease and expediency over the order of the names on the lists.
+
+We also found when patients were skipped over, organs disproportionately went to white patients, Asian patients, men and college graduates, amplifying existing disparities in the health care system.
+
+Over the past five years, we found, more than 1,200 people died after they had neared the top of a waiting list but were passed over. It is possible that those organs wouldn't have been a good fit medically, but patients didn't have the opportunity to find out.
+
+From the start, we felt strongly that this story needed to be told not just through words, but through visual depictions that could convey both the complexity and the human consequences of the transplant system. Jeremy White, an editor in The Times's Graphics department, meticulously created and used 3D-printed models to translate the data into visual representations of waiting lists and organ allocations.
+
+The photojournalist Alyssa Schukar helped introduce readers to Marcus Edsall-Parr, a teenager in Michigan who was passed over last year when he was first in line for a new kidney. (The person who got it was 3,558th.) Marcus's doctor was appalled, and told The Times about the incident. With the family's permission, he put us in touch.
+
+This month we sent a detailed summary of our findings to the federal Health Resources and Services Administration, which oversees UNOS. It has since ordered UNOS to address the practice of skipping patients.
+
+That convention, and our ensuing investigation, was another reminder that a vital part of reporting is being open to receiving unexpected information.
+
+Our team will continue to report on the transplant system -- including digging into that original tip.
+
+CAPTION(S):
+
+PHOTO: A liver transplant surgery at Houston Methodist Hospital last December. (PHOTOGRAPH BY ALYSSA SCHUKAR FOR THE NEW YORK TIMES) This article appeared in print on page A2.
+
+Copyright: COPYRIGHT 2025 The New York Times Company
+http://www.nytimes.com
